@@ -11,7 +11,7 @@ var path = require('path')
 
 const app = express()
 
-const token = "EAAZAsDDvVMi8BAEVEXpXnjLYF2Y4F1q1MiPKqRWZAab2bPo9qIahf5zDhdnG30zIM0Bwp49wKZCByB1edr4awBbAMYbk46TZAID0KeZA8mKIaIbD3rVizAUbi46PVuXuVLwLtaJFEDQGo4GCWlZAfSODxiAVKpR3VAEsp3cgiHkZBZAfvV8h8sjU"
+const token = "EAAHGqJDZATz4BAF2FTeo8KxKaaaAW4pKyBPUqBxFA1Kc5SkAoAAYF37IsjJ74P5mCXVF19J5GrsNPm3HGQmZAzXm7SmOhweJo5q2UzGComVXubCvu7xVhi6et0BgMQKAwFc01GQGmsrxhZBvZCvw3bBVhlwnHSnXg6SK8v3o0DKtWpw0jOUF"
 
 app.set('port', (process.env.PORT || 5000))
 
